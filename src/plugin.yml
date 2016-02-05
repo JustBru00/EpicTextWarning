@@ -1,0 +1,10 @@
+name: EpicTextWarning
+main: com.gmail.justbru00.epic.textwarning.main.Main
+version: 0.1.0
+description: Sends text warnings and logs them.
+author: Justin Brubaker
+
+commands:     
+ warn:
+       description: Warns Players.         
+  

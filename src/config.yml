@@ -1,0 +1,4 @@
+donoteditme: 'This file is used for logging all warnings. DO NOT EDIT UNLESS YOU KNOW WHAT YOU ARE DOING.'
+
+log:
+    - '(Ex.) [CURRENT_TIME] WARNED_PLAYER was warned for: Example warning. By: COMMAND_PREFORMED_BY_PLAYER'
