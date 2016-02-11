@@ -48,7 +48,7 @@ public class Warn implements CommandExecutor {
 				return true;
 			}
 			
-			String reason = " ";
+			String reason = "";
 			int i = 1;
 			while (i < args.length) {
 				reason = reason + " " + args[i];				
